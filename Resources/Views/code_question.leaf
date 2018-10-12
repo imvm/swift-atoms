@@ -1,0 +1,35 @@
+#set("title") {
+    Questions
+}
+
+#set("content") {
+<link rel="stylesheet" href="/styles/home.css">
+    <div class="container">
+        <div class='row h-100 align-items-center'>
+            <div class='col-xs-12 mx-auto text-center'>
+                #if(question) {
+                <form method="POST" action="/form/code_question_response/#(number)">
+                <div class="card">
+                    <div class="card-body text-left">
+                        <pre class="vertical">#(question.code)</pre>
+                    </div>
+                </div>
+                <div class="form-group mt-2">
+                    <input class="form-control" placeholder="Output" name="output">
+                </div>
+                #if(isLastQuestion) {
+                <input class="btn btn-primary" type="submit" id="continueButton" value="Finalizar"/>
+                } else {
+                <input class="btn btn-primary" type="submit" id="continueButton" value="Próxima questão"/>
+                }
+                </form>
+                } else {
+                <h2>Error!</h2>
+                }
+            </div>
+        </div>
+    </div>
+}
+    
+#embed("master")
+#embed("pagination")

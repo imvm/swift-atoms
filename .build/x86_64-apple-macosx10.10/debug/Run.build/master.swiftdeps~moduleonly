@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "7c4e7f69be5dc6a549149f72ae4f1801"
+build_time: [1537485847, 743567000]
+inputs:
+  "/Users/ianmanor/Desktop/tcc/Sources/Run/main.swift": [1537484182, 0]

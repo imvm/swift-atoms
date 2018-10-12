@@ -1,0 +1,85 @@
+#set("title") {
+    Demographic Survey
+}
+
+#set("content") {
+    <div class="col-md-6 mb-5 mt-3 offset-md-3 font-weight-light">
+        <h1 class="text-left font-weight-light">Demographic Survey</h1>
+
+        <p>You have finished all quizzes! Please complete a short survey. Thank you!</p>
+        
+        <form method="POST" action="/form/demographic_survey_response">
+            <div class="form-group">
+                <label for="genderSelect">What is your gender?</label>
+                <select class="form-control" id="genderSelect" name="gender">
+                    <option>Rather not say</option>
+                    <option>Male</option>
+                    <option>Female</option>
+                    <option>Other</option>
+                </select>
+            </div>
+            <!--education level-->
+            <div class="form-group">
+                <label for="education">What is your highest education level? (If you are a student, please report the degree you are pursuing.)
+</label>
+                <select class="form-control" id="education" name="education">
+                    <option>Associate Degree</option>
+                    <option>Bachelor's Degree</option>
+                    <option>Master's Degree</option>
+                    <option>Doctoral Degree</option>
+                    <option>Professional Degree</option>
+                </select>
+            </div>
+            <!--first learned-->
+            <div class="form-group">
+                <label for="firstLearned">When did you first learn Swift? (Please report month and year, such as 11/2008. If you do not member the month, then simply write the year.)</label>
+                <textarea class="form-control" id="firstLearned" rows="1" name="firstLearned"></textarea>
+            </div>
+            <!--location-->
+            <div class="form-group">
+                <label for="location">
+                    If you first learn Swift formally (at school or in a training), please let us know where.
+</label>
+                <textarea class="form-control" id="location" rows="1" name="location"></textarea>
+            </div>
+            <!--method-->
+            <div class="form-group">
+                <label for="method">If you first learn Swift informally (self­taught or using online tutorial), please tell us what method you used.</label>
+                <textarea class="form-control" id="method" rows="3" name="method"></textarea>
+            </div>
+            <!--lastUsed-->
+            <div class="form-group">
+                <label for="lastUsed">
+                    When was the last time you used Swift? (Please report month and year, such as 8/2015. If you do not remember the month, then simply write the year.)</label>
+                <textarea class="form-control" id="lastUsed" rows="3" name="lastUsed"></textarea>
+            </div>
+            <!--swiftExperience-->
+            <div class="form-group">
+                <label for="swiftExperience">
+                    Please estimate your months of experience in Swift language.</label>
+                <textarea class="form-control" id="swiftExperience" rows="3" name="swiftExperience"></textarea>
+            </div>
+            <!--otherLanguages-->
+            <div class="form-group">
+                <label for="otherLanguages">
+                    If Swift is not your dominate programming language, please tell us what is your dominate programming language, for example Java, PHP, Python, etc.
+</label>
+                <textarea class="form-control" id="otherLanguages" rows="3" name="otherLanguages"></textarea>
+            </div>
+            <!--programmingExperience-->
+            <div class="form-group">
+                <label for="programmingExperience">
+                    Please estimate your months of experience in programming, including any language.
+                </label>
+                <textarea class="form-control" id="programmingExperience" rows="3" name="programmingExperience"></textarea>
+            </div>
+            <p>You have completed the study. Thanks again for your participation!</p>
+            <div class="form-group">
+                <input class="btn btn-primary" type="submit" id="continueButton" value="Enviar"/>
+            </div>
+        </form>
+    </div>
+}
+
+#embed("master")
+

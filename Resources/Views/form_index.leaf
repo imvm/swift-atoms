@@ -1,0 +1,22 @@
+#set("title") {
+    Consent Form
+}
+
+#set("content") {
+    <div class="col-md-6 mb-5 mt-3 offset-md-3 font-weight-light">
+        <h1 class="text-left font-weight-light">Formulário de consentimento para pesquisa</h1>
+        <h5 class="text-left font-weight-light">Universidade Federal de Pernambuco (UFPE)</h5>
+        <p class="text-left">A pesquisa deve durar cerca de 40 minutos. Sed et massa eu dui volutpat feugiat vitae id mauris. Integer non iaculis nisi. Etiam vel vehicula metus, eget malesuada nunc. Nunc in nisl risus. Curabitur aliquam arcu eget justo lobortis posuere. Aenean vulputate hendrerit lacus a sodales. In volutpat ipsum non sem hendrerit mollis vel quis diam. Proin vulputate arcu nunc, a tempor dolor congue et. Mauris sed feugiat lacus. Curabitur bibendum nisi elit, a rhoncus lectus consequat nec.</p>
+        <p class="text-left">O objetivo da pesquisa é explorar aspectos da linguagem Swift. Sed et massa eu dui volutpat feugiat vitae id mauris. Integer non iaculis nisi. Etiam vel vehicula metus, eget malesuada nunc. Nunc in nisl risus. Curabitur aliquam arcu eget justo lobortis posuere. Aenean vulputate hendrerit lacus a sodales. In volutpat ipsum non sem hendrerit mollis vel quis diam. Proin vulputate arcu nunc, a tempor dolor congue et. Mauris sed feugiat lacus. Curabitur bibendum nisi elit, a rhoncus lectus consequat nec.</p>
+
+        <form action="/form/instructions_base">
+            <div class="form-group form-check">
+                <input type="checkbox" onchange="document.getElementById('continueButton').disabled = !this.checked;" class="form-check-input">
+                    <label class="form-check-label" for="exampleCheck1">Eu li e concordo com os termos</label>
+                    </div>
+            <input class="btn btn-primary" type="submit" id="continueButton" value="Prosseguir" disabled=true />
+        </form>
+    </div>
+}
+
+#embed("master")

@@ -1,0 +1,25 @@
+#if(codeQuestions) {
+<row>
+    <table class="col-md-8 offset-md-2 table table-bordered table-hover">
+        <caption>Code questions</caption>
+        <thead class="thead-light">
+            <tr>
+                <th>#</th>
+                <th>Atom</th>
+                <th>Code</th>
+            </tr>
+        </thead>
+        <tbody>
+            #for(codeQuestion in codeQuestions) {
+            <tr>
+                <td>#(codeQuestion.codeId)</td>
+                <td>#(codeQuestion.atom)</td>
+                <td><pre>#(codeQuestion.code)</pre></td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</row>
+} else {
+<h2 class="text-center font-weight-light">There aren’t any code questions yet!</h2>
+}

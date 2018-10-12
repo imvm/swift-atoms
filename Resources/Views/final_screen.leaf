@@ -1,0 +1,19 @@
+#set("title") {
+    Done
+}
+
+#set("content") {
+    <link rel="stylesheet" href="/styles/home.css">
+    <div class="container">
+        <div class='row h-100 justify-content-center align-items-center'>
+            <div class='mx-auto'>
+                <h1 class="text-center font-weight-light">Thanks for completing the survey!</h1>
+                <h1 class="display-3 text-center">🎉</h1>
+            </div>
+        </div>
+    </div>
+}
+
+#embed("master")
+
+

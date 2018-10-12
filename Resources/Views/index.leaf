@@ -1,0 +1,20 @@
+#set("title") {
+    Main Page
+}
+
+#set("content") {
+    #embed("nav")
+    <div class="row">
+        <img src="/images/swiftlogo.png"
+        class="mt-3 mb-3 mx-auto" alt="Swift Logo" />
+    </div>
+    <h1 class="text-center mb-3 font-weight-light">Swift Atoms of Confusion</h1>
+    <div class="col-md-8 mb-5 offset-md-2">
+        <p class="text-left font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et massa eu dui volutpat feugiat vitae id mauris. Integer non iaculis nisi. Etiam vel vehicula metus, eget malesuada nunc. Nunc in nisl risus. Curabitur aliquam arcu eget justo lobortis posuere. Aenean vulputate hendrerit lacus a sodales. In volutpat ipsum non sem hendrerit mollis vel quis diam. Proin vulputate arcu nunc, a tempor dolor congue et. Mauris sed feugiat lacus. Curabitur bibendum nisi elit, a rhoncus lectus consequat nec. Duis vehicula nec lacus vitae tincidunt. Maecenas lobortis leo sem, non tincidunt mauris ultrices at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.<p/>
+        <h3 class="font-weight-light">Lorem Ipsum</h3>
+        <p class="text-left font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et massa eu dui volutpat feugiat vitae id mauris. Integer non iaculis nisi. Etiam vel vehicula metus, eget malesuada nunc. Nunc in nisl risus. Curabitur aliquam arcu eget justo lobortis posuere. Aenean vulputate hendrerit lacus a sodales. In volutpat ipsum non sem hendrerit mollis vel quis diam. Proin vulputate arcu nunc, a tempor dolor congue et. Mauris sed feugiat lacus. Curabitur bibendum nisi elit, a rhoncus lectus consequat nec. Duis vehicula nec lacus vitae tincidunt. Maecenas lobortis leo sem, non tincidunt mauris ultrices at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.<p/>
+        <p class="text-left font-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et massa eu dui volutpat feugiat vitae id mauris. Integer non iaculis nisi. Etiam vel vehicula metus, eget malesuada nunc. Nunc in nisl risus. Curabitur aliquam arcu eget justo lobortis posuere. Aenean vulputate hendrerit lacus a sodales. In volutpat ipsum non sem hendrerit mollis vel quis diam. Proin vulputate arcu nunc, a tempor dolor congue et. Mauris sed feugiat lacus. Curabitur bibendum nisi elit, a rhoncus lectus consequat nec. Duis vehicula nec lacus vitae tincidunt. Maecenas lobortis leo sem, non tincidunt mauris ultrices at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.<p/>
+    </div>
+}
+
+#embed("master")

@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "896f5e8bc23598197f3e632152cecfa2"
+build_time: [1537485841, 824924000]
+inputs:
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/leaf.git--6810372791598447077/Sources/Leaf/Parser/Byte+Leaf.swift": [1537484690, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/leaf.git--6810372791598447077/Sources/Leaf/Parser/LeafParser.swift": [1537484690, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/leaf.git--6810372791598447077/Sources/Leaf/Renderer/LeafRenderer.swift": [1537484690, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/leaf.git--6810372791598447077/Sources/Leaf/Service/LeafConfig.swift": [1537484690, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/leaf.git--6810372791598447077/Sources/Leaf/Service/LeafProvider.swift": [1537484690, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/leaf.git--6810372791598447077/Sources/Leaf/Service/LeafTagConfig.swift": [1537484690, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/leaf.git--6810372791598447077/Sources/Leaf/Utilities/Data.swift": [1537484690, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/leaf.git--6810372791598447077/Sources/Leaf/Utilities/Exports.swift": [1537484690, 0]

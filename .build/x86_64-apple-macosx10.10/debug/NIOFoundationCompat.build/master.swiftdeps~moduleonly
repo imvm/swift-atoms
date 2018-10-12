@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "01f58e9a8508688c772d5d867b2421b8"
+build_time: [1537485825, 135565000]
+inputs:
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": [1537484691, 0]

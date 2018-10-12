@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "6f55fcdaba19a4b5ae78038721c6fc33"
+build_time: [1537485830, 194205000]
+inputs:
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOWebSocket/Base64.swift": [1537484691, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOWebSocket/SHA1.swift": [1537484691, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1537484691, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOWebSocket/WebSocketFrame.swift": [1537484691, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1537484691, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1537484691, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOWebSocket/WebSocketOpcode.swift": [1537484691, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [1537484691, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOWebSocket/WebSocketUpgrader.swift": [1537484691, 0]

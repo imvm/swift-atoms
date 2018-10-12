@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/master.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/console.git--2555995699104739670/Sources/Logging/Exports.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/console.git--2555995699104739670/Sources/Logging/LogLevel.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/console.git--2555995699104739670/Sources/Logging/Logger.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/console.git--2555995699104739670/Sources/Logging/PrintLogger.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.swiftdeps"
+  }
+}

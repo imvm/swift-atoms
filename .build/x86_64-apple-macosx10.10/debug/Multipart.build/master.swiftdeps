@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "65efbb766e401d8f6e4ad2603221c0e2"
+build_time: [1537485832, 753561000]
+inputs:
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/multipart.git-2722821676740794961/Sources/Multipart/Exports.swift": [1537484688, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/multipart.git-2722821676740794961/Sources/Multipart/FormDataDecoder.swift": [1537484688, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/multipart.git-2722821676740794961/Sources/Multipart/FormDataEncoder.swift": [1537484688, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/multipart.git-2722821676740794961/Sources/Multipart/MultipartError.swift": [1537484688, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/multipart.git-2722821676740794961/Sources/Multipart/MultipartParser.swift": [1537484688, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/multipart.git-2722821676740794961/Sources/Multipart/MultipartPart.swift": [1537484688, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/multipart.git-2722821676740794961/Sources/Multipart/MultipartPartConvertible.swift": [1537484688, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/multipart.git-2722821676740794961/Sources/Multipart/MultipartSerializer.swift": [1537484688, 0]

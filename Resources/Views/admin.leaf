@@ -1,0 +1,13 @@
+#set("title") {
+    Admin
+}
+
+#set("content") {
+    #embed("nav")
+    <h1 class="text-center mt-3 mb-3 font-weight-light">Data</h1>
+    #embed("code_question_table")
+    #embed("code_answer_table")
+    #embed("survey_answer_table")
+}
+
+#embed("master")

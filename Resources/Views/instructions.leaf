@@ -1,0 +1,17 @@
+#set("title") {
+    Instruções
+}
+
+#set("content") {
+    <div class="col-md-6 mb-5 mt-3 offset-md-3 font-weight-light">
+        <h1 class="text-left font-weight-light">Instruções</h1>
+        <p class="text-left">Será mostrado X perguntas, uma por vez, consistindo cada uma de um segmento de código Swift. Você deverá rodar cada código mentalmente e escrever no campo de resposta o output esperado de cada função.</p>
+        <p class="text-left">Integer non iaculis nisi. Etiam vel vehicula metus, eget malesuada nunc. Nunc in nisl risus. Curabitur aliquam arcu eget justo lobortis posuere. Aenean vulputate hendrerit lacus a sodales. In volutpat ipsum non sem hendrerit mollis vel quis diam. Proin vulputate arcu nunc, a tempor dolor congue et. Mauris sed feugiat lacus. Curabitur bibendum nisi elit, a rhoncus lectus consequat nec.</p>
+        
+        <form action="/form/code_question_base/1">
+            <input class="btn btn-primary" type="submit" id="continueButton" value="Começar" />
+        </form>
+    </div>
+}
+
+#embed("master")

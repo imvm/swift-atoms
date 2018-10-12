@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "c3d834251316cb60e887436541ad39ea"
+build_time: [1537485832, 754145000]
+inputs:
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/url-encoded-form.git-6271599709869551442/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1537484689, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/url-encoded-form.git-6271599709869551442/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1537484689, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/url-encoded-form.git-6271599709869551442/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1537484689, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/url-encoded-form.git-6271599709869551442/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1537484689, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/url-encoded-form.git-6271599709869551442/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1537484689, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/url-encoded-form.git-6271599709869551442/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1537484689, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/url-encoded-form.git-6271599709869551442/Sources/URLEncodedForm/Utilities/Exports.swift": [1537484689, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/url-encoded-form.git-6271599709869551442/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1537484689, 0]

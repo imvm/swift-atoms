@@ -1,0 +1,41 @@
+#if(surveyAnswers) {
+<row>
+    <div class="table-responsive">
+    <table class="col-md-8 offset-md-2 table table-bordered table-hover">
+        <caption>Survey question answers</caption>
+        <thead class="thead-light">
+            <tr>
+                <th>userId</th>
+                <th>gender</th>
+                <th>education</th>
+                <th>firstLearned</th>
+                <th>location</th>
+                <th>method</th>
+                <th>lastUsed</th>
+                <th>swiftExperience</th>
+                <th>otherLanguages</th>
+                <th>programmingExperience</th>
+            </tr>
+        </thead>
+        <tbody>
+            #for(answer in surveyAnswers) {
+            <tr>
+                <td>#(answer.userId)</td>
+                <td>#(answer.gender)</td>
+                <td>#(answer.education)</td>
+                <td>#(answer.firstLearned)</td>
+                <td>#(answer.location)</td>
+                <td>#(answer.method)</td>
+                <td>#(answer.lastUsed)</td>
+                <td>#(answer.swiftExperience)</td>
+                <td>#(answer.otherLanguages)</td>
+                <td>#(answer.programmingExperience)</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+    </div>
+</row>
+} else {
+<h2 class="text-center font-weight-light">There aren’t any demographic survey answers yet!</h2>
+}

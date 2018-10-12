@@ -1,0 +1,32 @@
+<link rel="stylesheet" href="/styles/pagination.css">
+<nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-center">
+        <li class="page-item">
+            #if(isFirstQuestion) {
+            <a class="page-link" href="/form/instructions" aria-label="Previous">
+            } else {
+            <a class="page-link" href="/form/code_question_base/#(number - 1)" aria-label="Previous">
+            }
+                <span aria-hidden="true">&laquo;</span>
+                <span class="sr-only">Previous</span>
+            </a>
+        </li>
+        #for(i in numberOfQuestions) {
+            #if(number == i){
+            <li class="page-item active"><a class="page-link" href="/form/code_question_base/#(i)">#(i)</a></li>
+            } else {
+            <li class="page-item"><a class="page-link" href="/form/code_question_base/#(i)">#(i)</a></li>
+            }
+        }
+        <li class="page-item">
+            #if(isLastQuestion) {
+            <a class="page-link" href="/form/demographic_survey_base" aria-label="Next">
+            } else {
+            <a class="page-link" href="/form/code_question_base/#(number + 1)" aria-label="Next">
+            }
+                <span aria-hidden="true">&raquo;</span>
+                <span class="sr-only">Next</span>
+            </a>
+        </li>
+    </ul>
+</nav>

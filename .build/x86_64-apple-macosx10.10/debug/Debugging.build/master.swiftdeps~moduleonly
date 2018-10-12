@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "eaba30b8300e35c72bff060e1ff7411d"
+build_time: [1537485816, 259496000]
+inputs:
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Debugging/Debuggable.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Debugging/Demangler.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Debugging/SourceLocation.swift": [1537484687, 0]

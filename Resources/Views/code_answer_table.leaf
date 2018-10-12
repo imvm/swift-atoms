@@ -1,0 +1,27 @@
+#if(codeAnswers) {
+<row>
+    <table class="col-md-8 offset-md-2 table table-bordered table-hover">
+        <caption>Code question answers</caption>
+        <thead class="thead-light">
+            <tr>
+                <th>userId</th>
+                <th>codeId</th>
+                <th>answer</th>
+                <th>timestamp</th>
+            </tr>
+        </thead>
+        <tbody>
+            #for(answer in codeAnswers) {
+            <tr>
+                <td>#(answer.userId)</td>
+                <td>#(answer.codeId)</td>
+                <td>#(answer.answer)</td>
+                <td>#(answer.timestamp)</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</row>
+} else {
+<h2 class="text-center font-weight-light">There aren’t any code answers yet!</h2>
+}

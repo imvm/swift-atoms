@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "1be1cb3da5e5d7197de695bd6be6347f"
+build_time: [1537485847, 314545000]
+inputs:
+  "/Users/ianmanor/Desktop/tcc/Sources/App/Routes.swift": [1537484182, 0]
+  "/Users/ianmanor/Desktop/tcc/Sources/App/app.swift": [1537484182, 0]
+  "/Users/ianmanor/Desktop/tcc/Sources/App/boot.swift": [1537484182, 0]
+  "/Users/ianmanor/Desktop/tcc/Sources/App/configure.swift": [1537484182, 0]

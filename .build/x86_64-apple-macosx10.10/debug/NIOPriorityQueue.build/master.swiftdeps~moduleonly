@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "fa6d613aaed9e8d48829d71b98840999"
+build_time: [1537485815, 360410000]
+inputs:
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOPriorityQueue/Heap.swift": [1537484691, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOPriorityQueue/PriorityQueue.swift": [1537484691, 0]

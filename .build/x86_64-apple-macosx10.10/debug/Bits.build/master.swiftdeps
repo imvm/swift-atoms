@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "c8909aa288b2ae71c5e674f9a44451fb"
+build_time: [1537485825, 135903000]
+inputs:
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Bits/BitsError.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Bits/Byte+Alphabet.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Bits/Byte+Control.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Bits/Byte+Digit.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Bits/ByteBuffer+peek.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Bits/ByteBuffer+require.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Bits/ByteBuffer+string.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Bits/Bytes.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Bits/Data+Bytes.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Bits/Data+Strings.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/core.git-5739733921383260265/Sources/Bits/Deprecated.swift": [1537484687, 0]
