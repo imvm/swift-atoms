@@ -1,4 +1,4 @@
 module CCryptoOpenSSL {
-    umbrella "/Users/ianmanor/Desktop/tcc/.build/checkouts/crypto.git--8093044826630377357/Sources/CCryptoOpenSSL/include"
+    umbrella "/Users/ianmanor/Desktop/tcc/.build/checkouts/crypto.git--5908850568736399167/Sources/CCryptoOpenSSL/include"
     export *
 }

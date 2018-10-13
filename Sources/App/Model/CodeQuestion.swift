@@ -9,7 +9,7 @@ import Foundation
 import Vapor
 import FluentPostgreSQL
 
-final class CodeQuestion: Encodable {
+final class CodeQuestion: PostgreSQLModel {
     var id: Int?
     var codeId: Int
     var obfuscated: Bool
@@ -26,7 +26,6 @@ final class CodeQuestion: Encodable {
     }
 }
 
-extension CodeQuestion: PostgreSQLModel {}
 extension CodeQuestion: Content {}
 extension CodeQuestion: Migration {}
 extension CodeQuestion: Parameter {}

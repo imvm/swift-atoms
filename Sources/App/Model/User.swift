@@ -10,7 +10,7 @@ import Vapor
 import FluentPostgreSQL
 import Authentication
 
-final class User: Encodable {
+final class User: PostgreSQLModel {
     var id: Int?
     var completedSurvey: Bool = false
     var questions: QuestionData
@@ -24,13 +24,12 @@ final class QuestionData: Codable {
     let codeQuestions: [CodeQuestion]
     
     init(codeQuestions: [CodeQuestion]) {
-        self.codeQuestions = codeQuestions.shuffled()
+        self.codeQuestions = codeQuestions
     }
 }
 
 extension User: SessionAuthenticatable {}
 
-extension User: PostgreSQLModel {}
 extension User: Content {}
 extension User: Migration {}
 extension User: Parameter {}

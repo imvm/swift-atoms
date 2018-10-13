@@ -9,7 +9,7 @@ import Foundation
 import Vapor
 import FluentPostgreSQL
 
-final class DemographicAnswer: Encodable {
+final class DemographicAnswer: PostgreSQLModel {
     var id: Int?
     var userId: Int
     var gender: String
@@ -36,7 +36,6 @@ final class DemographicAnswer: Encodable {
     }
 }
 
-extension DemographicAnswer: PostgreSQLModel {}
 extension DemographicAnswer: Content {}
 extension DemographicAnswer: Migration {}
 extension DemographicAnswer: Parameter {}
