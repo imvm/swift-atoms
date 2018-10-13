@@ -1,9 +1,0 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
-options: "48fb3b9be97e4db2f8f1601e66756840"
-build_time: [1539394674, 550616000]
-inputs:
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/websocket.git--2897468490497045452/Sources/WebSocket/Exports.swift": [1538847909, 0]
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/websocket.git--2897468490497045452/Sources/WebSocket/WebSocket+Client.swift": [1538847909, 0]
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/websocket.git--2897468490497045452/Sources/WebSocket/WebSocket+Server.swift": [1538847909, 0]
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/websocket.git--2897468490497045452/Sources/WebSocket/WebSocket.swift": [1538847909, 0]
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/websocket.git--2897468490497045452/Sources/WebSocket/WebSocketHandler.swift": [1538847909, 0]

@@ -1,7 +1,0 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
-options: "57a7bda08fd761e22c7f8505619bc83a"
-build_time: [1539394585, 20461000]
-inputs:
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1538847910, 0]
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOTLS/SNIHandler.swift": [1538847910, 0]
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOTLS/TLSEvents.swift": [1538847910, 0]

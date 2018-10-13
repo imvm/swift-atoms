@@ -1,8 +1,0 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
-options: "e0b0c7b8cfd5f02f8675aeb770b7cecc"
-build_time: [1539394597, 207110000]
-inputs:
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/console.git--2555995699104739670/Sources/Logging/Exports.swift": [1537484690, 0]
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/console.git--2555995699104739670/Sources/Logging/LogLevel.swift": [1537484690, 0]
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/console.git--2555995699104739670/Sources/Logging/Logger.swift": [1537484690, 0]
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/console.git--2555995699104739670/Sources/Logging/PrintLogger.swift": [1537484690, 0]
