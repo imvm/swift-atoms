@@ -1,0 +1,437 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/master.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Codable/PostgreSQLDataDecoder.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDataDecoder.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Codable/PostgreSQLDataDecoder.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDataDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDataDecoder.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Codable/PostgreSQLRowDecoder.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLRowDecoder.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Codable/PostgreSQLRowDecoder.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLRowDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLRowDecoder.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Codable/PostgreSQLValueEncoder.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLValueEncoder.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Codable/PostgreSQLValueEncoder.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLValueEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLValueEncoder.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Column/PostgreSQLColumn.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLColumn.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Column/PostgreSQLColumn.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLColumn~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLColumn.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Column/PostgreSQLDataTypeCode.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDataTypeCode.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Column/PostgreSQLDataTypeCode.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDataTypeCode~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDataTypeCode.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Connection/ChannelPipeline+PostgreSQL.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/ChannelPipeline+PostgreSQL.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Connection/ChannelPipeline+PostgreSQL.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/ChannelPipeline+PostgreSQL~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/ChannelPipeline+PostgreSQL.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Connection/PostgreSQLConnection+Authenticate.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+Authenticate.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Connection/PostgreSQLConnection+Authenticate.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+Authenticate~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+Authenticate.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Connection/PostgreSQLConnection+Connect.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+Connect.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Connection/PostgreSQLConnection+Connect.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+Connect~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+Connect.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Connection/PostgreSQLConnection+NotifyAndListen.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+NotifyAndListen.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Connection/PostgreSQLConnection+NotifyAndListen.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+NotifyAndListen~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+NotifyAndListen.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Connection/PostgreSQLConnection+Query.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+Query.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Connection/PostgreSQLConnection+Query.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+Query~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+Query.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Connection/PostgreSQLConnection+ServerAddress.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+ServerAddress.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Connection/PostgreSQLConnection+ServerAddress.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+ServerAddress~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+ServerAddress.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Connection/PostgreSQLConnection+SimpleQuery.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+SimpleQuery.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Connection/PostgreSQLConnection+SimpleQuery.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+SimpleQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+SimpleQuery.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Connection/PostgreSQLConnection+TableNameCache.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+TableNameCache.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Connection/PostgreSQLConnection+TableNameCache.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+TableNameCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+TableNameCache.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Connection/PostgreSQLConnection+TransportConfig.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+TransportConfig.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Connection/PostgreSQLConnection+TransportConfig.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+TransportConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection+TransportConfig.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Connection/PostgreSQLConnection.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Connection/PostgreSQLConnection.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLConnection.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Connection/PostgreSQLResultFormat.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLResultFormat.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Connection/PostgreSQLResultFormat.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLResultFormat~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLResultFormat.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Data/PostgreSQLData+BinaryFloatingPoint.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+BinaryFloatingPoint.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Data/PostgreSQLData+BinaryFloatingPoint.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+BinaryFloatingPoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+BinaryFloatingPoint.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Data/PostgreSQLData+Bool.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+Bool.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Data/PostgreSQLData+Bool.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+Bool~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+Bool.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Data/PostgreSQLData+Data.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+Data.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Data/PostgreSQLData+Data.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+Data~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+Data.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Data/PostgreSQLData+Date.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+Date.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Data/PostgreSQLData+Date.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+Date~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+Date.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Data/PostgreSQLData+FixedWidthInteger.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+FixedWidthInteger.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Data/PostgreSQLData+FixedWidthInteger.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+FixedWidthInteger~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+FixedWidthInteger.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Data/PostgreSQLData+Point.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+Point.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Data/PostgreSQLData+Point.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+Point~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+Point.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Data/PostgreSQLData+String.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+String.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Data/PostgreSQLData+String.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+String~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+String.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Data/PostgreSQLData+UUID.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+UUID.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Data/PostgreSQLData+UUID.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+UUID~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData+UUID.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Data/PostgreSQLData.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Data/PostgreSQLData.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLData.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Data/PostgreSQLDataConvertible.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDataConvertible.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Data/PostgreSQLDataConvertible.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDataConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDataConvertible.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Database/PostgreSQLDatabase.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDatabase.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Database/PostgreSQLDatabase.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDatabase~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDatabase.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Database/PostgreSQLDatabaseConfig.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDatabaseConfig.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Database/PostgreSQLDatabaseConfig.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDatabaseConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDatabaseConfig.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Database/PostgreSQLLogger.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLLogger.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Database/PostgreSQLLogger.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLLogger.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+0.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+0.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+0.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+0~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+0.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+AuthenticationRequest.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+AuthenticationRequest.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+AuthenticationRequest.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+AuthenticationRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+AuthenticationRequest.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+BackendKeyData.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+BackendKeyData.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+BackendKeyData.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+BackendKeyData~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+BackendKeyData.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+BindRequest.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+BindRequest.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+BindRequest.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+BindRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+BindRequest.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+Close.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+Close.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+Close.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+Close~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+Close.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+DataRow.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+DataRow.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+DataRow.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+DataRow~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+DataRow.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+DescribeRequest.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+DescribeRequest.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+DescribeRequest.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+DescribeRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+DescribeRequest.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+ErrorResponse.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ErrorResponse.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+ErrorResponse.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ErrorResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ErrorResponse.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+ExecuteRequest.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ExecuteRequest.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+ExecuteRequest.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ExecuteRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ExecuteRequest.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+FormatCode.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+FormatCode.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+FormatCode.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+FormatCode~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+FormatCode.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+NotificationResponse.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+NotificationResponse.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+NotificationResponse.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+NotificationResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+NotificationResponse.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+ParameterDescription.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ParameterDescription.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+ParameterDescription.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ParameterDescription~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ParameterDescription.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+ParameterStatus.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ParameterStatus.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+ParameterStatus.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ParameterStatus~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ParameterStatus.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+ParseRequest.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ParseRequest.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+ParseRequest.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ParseRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ParseRequest.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+PasswordMessage.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+PasswordMessage.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+PasswordMessage.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+PasswordMessage~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+PasswordMessage.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+Query.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+Query.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+Query.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+Query~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+Query.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+ReadyForQuery.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ReadyForQuery.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+ReadyForQuery.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ReadyForQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+ReadyForQuery.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+RowDescription.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+RowDescription.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+RowDescription.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+RowDescription~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+RowDescription.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+SSLSupportRequest.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+SSLSupportRequest.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+SSLSupportRequest.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+SSLSupportRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+SSLSupportRequest.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+SSLSupportResponse.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+SSLSupportResponse.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+SSLSupportResponse.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+SSLSupportResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+SSLSupportResponse.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Message/PostgreSQLMessage+StartupMessage.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+StartupMessage.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Message/PostgreSQLMessage+StartupMessage.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+StartupMessage~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessage+StartupMessage.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Pipeline/PostgreSQLMessageDecoder.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessageDecoder.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Pipeline/PostgreSQLMessageDecoder.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessageDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessageDecoder.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Pipeline/PostgreSQLMessageEncoder.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessageEncoder.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Pipeline/PostgreSQLMessageEncoder.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessageEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLMessageEncoder.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLAlterTable.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLAlterTable.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLAlterTable.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLAlterTable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLAlterTable.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLBinaryOperator.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLBinaryOperator.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLBinaryOperator.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLBinaryOperator~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLBinaryOperator.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLBind.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLBind.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLBind.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLBind~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLBind.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLBoolLiteral.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLBoolLiteral.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLBoolLiteral.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLBoolLiteral~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLBoolLiteral.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLCollation.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLCollation.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLCollation.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLCollation~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLCollation.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLDataTypeStaticRepresentable.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDataTypeStaticRepresentable.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLDataTypeStaticRepresentable.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDataTypeStaticRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDataTypeStaticRepresentable.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLDefault.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDefault.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLDefault.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDefault~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDefault.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLDropIndex.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDropIndex.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLDropIndex.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDropIndex~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLDropIndex.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLFunction.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLFunction.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLFunction.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLFunction~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLFunction.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLGeneric.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLGeneric.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLGeneric.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLGeneric~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLGeneric.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLInsert.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLInsert.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLInsert.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLInsert~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLInsert.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLPrimaryKey.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLPrimaryKey.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLPrimaryKey.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLPrimaryKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLPrimaryKey.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLQuery+DataType.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLQuery+DataType.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLQuery+DataType.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLQuery+DataType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLQuery+DataType.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLQuery.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLQuery.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLQuery.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLQuery.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLTable.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLTable.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLTable.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLTable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLTable.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/SQL/PostgreSQLUpsert.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLUpsert.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/SQL/PostgreSQLUpsert.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLUpsert~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLUpsert.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Utilities/Exports.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Exports.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Exports.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Utilities/PostgreSQLError.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLError.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Utilities/PostgreSQLError.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLError~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLError.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Utilities/PostgreSQLProvider.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLProvider.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Utilities/PostgreSQLProvider.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/PostgreSQLProvider.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/postgresql.git--4802450577224679083/Sources/PostgreSQL/Utilities/Utilities.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Utilities.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Utilities/Utilities.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.build/Utilities.swiftdeps"
+  }
+}

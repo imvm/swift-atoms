@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "6a9bc35ce2b420871a463b01f39a7a8e"
+build_time: [1539394597, 701882000]
+inputs:
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/routing.git--1811482205720258083/Sources/Routing/Parameter/Parameter.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/routing.git--1811482205720258083/Sources/Routing/Parameter/ParameterValue.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/routing.git--1811482205720258083/Sources/Routing/Parameter/Parameters.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/routing.git--1811482205720258083/Sources/Routing/Register/PathComponent.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/routing.git--1811482205720258083/Sources/Routing/Register/Route.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/routing.git--1811482205720258083/Sources/Routing/Register/RouterOption.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/routing.git--1811482205720258083/Sources/Routing/Routing/RoutableComponent.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/routing.git--1811482205720258083/Sources/Routing/Routing/RouterNode.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/routing.git--1811482205720258083/Sources/Routing/Routing/TrieRouter.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/routing.git--1811482205720258083/Sources/Routing/Utilities/Deprecated.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/routing.git--1811482205720258083/Sources/Routing/Utilities/Exports.swift": [1537484687, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/routing.git--1811482205720258083/Sources/Routing/Utilities/RoutingError.swift": [1537484687, 0]

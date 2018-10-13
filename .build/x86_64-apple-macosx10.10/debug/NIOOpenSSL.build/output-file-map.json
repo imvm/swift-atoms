@@ -2,6 +2,12 @@
   "": {
     "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/master.swiftdeps"
   },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio-ssl.git--3991839679483664902/Sources/NIOOpenSSL/ByteBufferBIO.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/ByteBufferBIO.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/ByteBufferBIO.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/ByteBufferBIO~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/ByteBufferBIO.swiftdeps"
+  },
   "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio-ssl.git--3991839679483664902/Sources/NIOOpenSSL/IdentityVerification.swift": {
     "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/IdentityVerification.d",
     "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/IdentityVerification.swift.o",
@@ -67,6 +73,12 @@
     "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPKCS12Bundle.swift.o",
     "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPKCS12Bundle~partial.swiftmodule",
     "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPKCS12Bundle.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio-ssl.git--3991839679483664902/Sources/NIOOpenSSL/SSLPointerTricks.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPointerTricks.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPointerTricks.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPointerTricks~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPointerTricks.swiftdeps"
   },
   "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio-ssl.git--3991839679483664902/Sources/NIOOpenSSL/SSLPrivateKey.swift": {
     "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPrivateKey.d",

@@ -33,6 +33,7 @@ depends-external:
 - "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio-zlib-support.git-9009368535488751994/module.modulemap"
 - "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/CNIOSHA1.build/module.modulemap"
 - "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/CCryptoOpenSSL.build/module.modulemap"
 - "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/CNIOZlib.build/module.modulemap"
 - "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/CNIODarwin.build/module.modulemap"
 - "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/CNIOHTTPParser.build/module.modulemap"

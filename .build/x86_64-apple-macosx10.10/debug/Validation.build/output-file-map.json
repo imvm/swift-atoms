@@ -62,6 +62,12 @@
     "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/EmailValidator~partial.swiftmodule",
     "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/EmailValidator.swiftdeps"
   },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/validation.git--6468211263136301039/Sources/Validation/Validators/EmptyValidator.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/EmptyValidator.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/Validators/EmptyValidator.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/EmptyValidator~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/EmptyValidator.swiftdeps"
+  },
   "/Users/ianmanor/Desktop/tcc/.build/checkouts/validation.git--6468211263136301039/Sources/Validation/Validators/InValidator.swift": {
     "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/InValidator.d",
     "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/Validators/InValidator.swift.o",
@@ -97,5 +103,11 @@
     "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/Validators/RangeValidator.swift.o",
     "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/RangeValidator~partial.swiftmodule",
     "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/RangeValidator.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/validation.git--6468211263136301039/Sources/Validation/Validators/URLValidator.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/URLValidator.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/Validators/URLValidator.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/URLValidator~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Validation.build/URLValidator.swiftdeps"
   }
 }

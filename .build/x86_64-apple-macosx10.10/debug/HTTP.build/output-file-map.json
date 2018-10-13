@@ -134,6 +134,18 @@
     "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPError~partial.swiftmodule",
     "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPError.swiftdeps"
   },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/http.git--6078422254451388890/Sources/HTTP/Utilities/HTTPHeaders+Basic.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPHeaders+Basic.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Utilities/HTTPHeaders+Basic.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPHeaders+Basic~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPHeaders+Basic.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/http.git--6078422254451388890/Sources/HTTP/Utilities/HTTPHeaders+Bearer.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPHeaders+Bearer.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Utilities/HTTPHeaders+Bearer.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPHeaders+Bearer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPHeaders+Bearer.swiftdeps"
+  },
   "/Users/ianmanor/Desktop/tcc/.build/checkouts/http.git--6078422254451388890/Sources/HTTP/Utilities/RFC1123.swift": {
     "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/HTTP.build/RFC1123.d",
     "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Utilities/RFC1123.swift.o",

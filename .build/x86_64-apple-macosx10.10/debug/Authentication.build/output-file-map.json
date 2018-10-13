@@ -1,0 +1,107 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/master.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Authenticatable.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Authenticatable.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Authenticatable.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Authenticatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Authenticatable.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/AuthenticationCache.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationCache.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationCache.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationCache.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/AuthenticationProvider.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationProvider.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationProvider.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationProvider.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Basic/BasicAuthenticatable.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/BasicAuthenticatable.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Basic/BasicAuthenticatable.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/BasicAuthenticatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/BasicAuthenticatable.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Basic/BasicAuthenticationMiddleware.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/BasicAuthenticationMiddleware.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Basic/BasicAuthenticationMiddleware.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/BasicAuthenticationMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/BasicAuthenticationMiddleware.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Bearer/BearerAuthenticatable.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/BearerAuthenticatable.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Bearer/BearerAuthenticatable.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/BearerAuthenticatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/BearerAuthenticatable.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Bearer/BearerAuthenticationMiddleware.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/BearerAuthenticationMiddleware.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Bearer/BearerAuthenticationMiddleware.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/BearerAuthenticationMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/BearerAuthenticationMiddleware.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Exports.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Exports.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Exports.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Exports.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Password/PasswordAuthenticatable.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/PasswordAuthenticatable.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Password/PasswordAuthenticatable.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/PasswordAuthenticatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/PasswordAuthenticatable.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Password/PasswordVerifier.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/PasswordVerifier.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Password/PasswordVerifier.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/PasswordVerifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/PasswordVerifier.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Persist/AuthenticationSessionsMiddleware.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationSessionsMiddleware.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Persist/AuthenticationSessionsMiddleware.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationSessionsMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationSessionsMiddleware.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Persist/RedirectMiddleware.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/RedirectMiddleware.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Persist/RedirectMiddleware.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/RedirectMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/RedirectMiddleware.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Persist/SessionAuthenticatable.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/SessionAuthenticatable.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Persist/SessionAuthenticatable.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/SessionAuthenticatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/SessionAuthenticatable.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Token/TokenAuthenticatable.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/TokenAuthenticatable.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Token/TokenAuthenticatable.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/TokenAuthenticatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/TokenAuthenticatable.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Token/TokenAuthenticationMiddleware.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/TokenAuthenticationMiddleware.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Token/TokenAuthenticationMiddleware.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/TokenAuthenticationMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/TokenAuthenticationMiddleware.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Utilities/AuthenticationError.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationError.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Utilities/AuthenticationError.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationError~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/AuthenticationError.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/auth.git--8933507511891975468/Sources/Authentication/Utilities/GuardMiddleware.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/GuardMiddleware.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/Utilities/GuardMiddleware.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/GuardMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/Authentication.build/GuardMiddleware.swiftdeps"
+  }
+}

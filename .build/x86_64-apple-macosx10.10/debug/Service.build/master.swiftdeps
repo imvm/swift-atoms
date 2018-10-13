@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
-options: "853122b9c1bba7a7db7cea3304a44351"
-build_time: [1537485832, 754281000]
+options: "379603b12da5f3e69efea8923df108b4"
+build_time: [1539394662, 927763000]
 inputs:
   "/Users/ianmanor/Desktop/tcc/.build/checkouts/service.git--6716931833912840981/Sources/Service/Config/Config.swift": [1537484689, 0]
   "/Users/ianmanor/Desktop/tcc/.build/checkouts/service.git--6716931833912840981/Sources/Service/Container/BasicContainer.swift": [1537484689, 0]

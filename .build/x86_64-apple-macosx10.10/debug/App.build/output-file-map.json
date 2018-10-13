@@ -2,11 +2,53 @@
   "": {
     "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/master.swiftdeps"
   },
+  "/Users/ianmanor/Desktop/tcc/Sources/App/Model/CodeAnswer.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/CodeAnswer.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/Model/CodeAnswer.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/CodeAnswer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/CodeAnswer.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/Sources/App/Model/CodeQuestion.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/CodeQuestion.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/Model/CodeQuestion.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/CodeQuestion~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/CodeQuestion.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/Sources/App/Model/DemographicAnswer.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/DemographicAnswer.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/Model/DemographicAnswer.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/DemographicAnswer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/DemographicAnswer.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/Sources/App/Model/User.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/User.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/Model/User.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/User~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/User.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/Sources/App/New Group1/AdminController.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/AdminController.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/New Group1/AdminController.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/AdminController~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/AdminController.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/Sources/App/New Group1/FormController.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/FormController.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/New Group1/FormController.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/FormController~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/FormController.swiftdeps"
+  },
   "/Users/ianmanor/Desktop/tcc/Sources/App/Routes.swift": {
     "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/Routes.d",
     "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/Routes.swift.o",
     "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/Routes~partial.swiftmodule",
     "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/Routes.swiftdeps"
+  },
+  "/Users/ianmanor/Desktop/tcc/Sources/App/Util/StringTag.swift": {
+    "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/StringTag.d",
+    "object": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/Util/StringTag.swift.o",
+    "swiftmodule": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/StringTag~partial.swiftmodule",
+    "swift-dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/StringTag.swiftdeps"
   },
   "/Users/ianmanor/Desktop/tcc/Sources/App/app.swift": {
     "dependencies": "/Users/ianmanor/Desktop/tcc/.build/x86_64-apple-macosx10.10/debug/App.build/app.d",

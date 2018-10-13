@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
-options: "3ea4268b4bc1556d417748c0e406a280"
-build_time: [1537485840, 773005000]
+options: "c557118541012a391682c10805cab0dd"
+build_time: [1539394671, 234929000]
 inputs:
   "/Users/ianmanor/Desktop/tcc/.build/checkouts/console.git--2555995699104739670/Sources/Console/Activity/ActivityBar.swift": [1537484690, 0]
   "/Users/ianmanor/Desktop/tcc/.build/checkouts/console.git--2555995699104739670/Sources/Console/Activity/ActivityIndicator.swift": [1537484690, 0]

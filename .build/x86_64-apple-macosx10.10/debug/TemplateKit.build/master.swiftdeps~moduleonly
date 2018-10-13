@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
-options: "d38dd46bcf7a8057cdfd8c5b13b741ab"
-build_time: [1537485836, 64169000]
+options: "6af89b818d83ff9f4bcafc99fb745d49"
+build_time: [1539394666, 323027000]
 inputs:
   "/Users/ianmanor/Desktop/tcc/.build/checkouts/template-kit.git-2087485575843219359/Sources/TemplateKit/AST/TemplateConditional.swift": [1537484689, 0]
   "/Users/ianmanor/Desktop/tcc/.build/checkouts/template-kit.git-2087485575843219359/Sources/TemplateKit/AST/TemplateConstant.swift": [1537484689, 0]

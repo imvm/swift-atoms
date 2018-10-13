@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
-options: "399c515ee6045a94a3472e245c63b4a9"
-build_time: [1537485820, 568383000]
+options: "d952c19c85aed4786d340e5d4c032ae1"
+build_time: [1539394650, 653600000]
 inputs:
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOConcurrencyHelpers/atomics.swift": [1537484691, 0]
-  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOConcurrencyHelpers/lock.swift": [1537484691, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOConcurrencyHelpers/atomics.swift": [1538847910, 0]
+  "/Users/ianmanor/Desktop/tcc/.build/checkouts/swift-nio.git--7918478359249447640/Sources/NIOConcurrencyHelpers/lock.swift": [1538847910, 0]
